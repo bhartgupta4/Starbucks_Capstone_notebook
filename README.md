@@ -1,13 +1,13 @@
 # Starbucks_Capstone_notebook
 
 ## Installation
-1 Pandas
-2 Scikit learn
-3 Matplotlib and seaborn
-4 Pandas
+1 Pandas                                                                                                                               
+2 Scikit learn                                                                                                                         
+3 Matplotlib and seaborn                                                                                                               
+4 Pandas                                                                                                                               
 
 ## Dataset used
-Data Sets
+Data Sets                                                                                                                               
 The data is contained in three files:
 · portfolio.json — containing offer ids and meta data about each offer (duration, type, etc.)
 · profile.json — demographic data for each customer
