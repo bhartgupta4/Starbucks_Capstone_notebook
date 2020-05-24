@@ -22,7 +22,7 @@ portfolio.json
 · channels (list of strings)                                                                                                           
 profile.json  
 · age (int) — age of the customer                                                                                                     
-· became_member_on (int) — date when customer created an app account
+· became_member_on (int) — date when customer created an app account                                                                   
 · gender (str) — gender of the customer (note some entries contain ‘O’ for other rather than M or F)                                   
 · id (str) — customer id                                                                                                              
 · income (float) — customer’s income                                                                                                   
